@@ -14,7 +14,7 @@
 		}
 	],
 	"require" : {
-		"silverstripe/admin" : "~1.4"
+		"silverstripe/admin" : "*"
 	},
 	"support" : {
 		"issues" : "https://github.com/webbuilders-group/silverstripe-datetime-picker-polyfill/issues"
